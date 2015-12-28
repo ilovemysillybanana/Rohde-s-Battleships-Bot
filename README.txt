@@ -1,7 +1,5 @@
-Hi there! :) 
+Hi there! :)
 
-This is the first project I upload to github, and in the moment I'm writing this, I'm new to both git and github. 
+This is my first project I have uploaded to github, and at the moment of writing, I'm new to version control systems.
 
-Rohde's Battleships Bot is a bot that can play Battleships. Check the GameRules.txt for information on how the bot works, and which version of battleships it plays :) 
-
-Bye! :) 
+Rohde's Battleships Bot is a bot that can play Battleship. Check the file "GameRules.txt" for information on how the bot works, and which versions of battleship it plays :)
